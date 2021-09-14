@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="matt_lost.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="matt lose idle0000" x="0" y="0" width="290" height="436" frameX="-1" frameY="-11" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0001" x="0" y="0" width="290" height="436" frameX="-1" frameY="-11" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0002" x="290" y="0" width="290" height="436" frameX="-1" frameY="-11" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0003" x="580" y="0" width="290" height="436" frameX="-1" frameY="-11" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0004" x="870" y="0" width="290" height="436" frameX="-1" frameY="-11" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0005" x="1160" y="0" width="290" height="436" frameX="-1" frameY="-11" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0006" x="1450" y="0" width="290" height="436" frameX="-1" frameY="-11" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0007" x="1740" y="0" width="290" height="437" frameX="-1" frameY="-10" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0008" x="0" y="437" width="290" height="438" frameX="-1" frameY="-9" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0009" x="290" y="437" width="291" height="438" frameX="-1" frameY="-9" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0010" x="581" y="437" width="291" height="440" frameX="-1" frameY="-7" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0011" x="872" y="437" width="291" height="441" frameX="-1" frameY="-6" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0012" x="1163" y="437" width="291" height="442" frameX="-1" frameY="-5" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0013" x="1454" y="437" width="291" height="443" frameX="-1" frameY="-4" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0014" x="1745" y="437" width="291" height="444" frameX="-1" frameY="-3" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0015" x="0" y="881" width="291" height="445" frameX="-1" frameY="-2" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0016" x="291" y="881" width="292" height="446" frameX="0" frameY="-1" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0017" x="583" y="881" width="292" height="446" frameX="0" frameY="-1" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0018" x="875" y="881" width="291" height="447" frameX="0" frameY="0" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0019" x="1166" y="881" width="292" height="447"/>
+	<SubTexture name="matt lose idle0020" x="1458" y="881" width="292" height="447"/>
+	<SubTexture name="matt lose idle0021" x="1750" y="881" width="292" height="447"/>
+	<SubTexture name="matt lose idle0022" x="0" y="1328" width="292" height="447"/>
+	<SubTexture name="matt lose idle0023" x="292" y="1328" width="292" height="447"/>
+	<SubTexture name="matt lose idle0024" x="584" y="1328" width="291" height="446" frameX="0" frameY="-1" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0025" x="875" y="1328" width="292" height="446" frameX="0" frameY="-1" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0026" x="1167" y="1328" width="291" height="445" frameX="0" frameY="-2" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0027" x="1458" y="1328" width="291" height="445" frameX="0" frameY="-2" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0028" x="1749" y="1328" width="292" height="443" frameX="0" frameY="-3" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0029" x="0" y="1775" width="291" height="443" frameX="0" frameY="-4" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0030" x="291" y="1775" width="290" height="440" frameX="-1" frameY="-6" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0031" x="581" y="1775" width="290" height="439" frameX="-1" frameY="-7" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0032" x="871" y="1775" width="290" height="438" frameX="-1" frameY="-8" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0033" x="1161" y="1775" width="290" height="437" frameX="-1" frameY="-9" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0034" x="1451" y="1775" width="290" height="436" frameX="-1" frameY="-10" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0035" x="1741" y="1775" width="290" height="435" frameX="-1" frameY="-11" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0036" x="0" y="2218" width="289" height="435" frameX="-1" frameY="-11" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0037" x="289" y="2218" width="290" height="436" frameX="-1" frameY="-11" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0038" x="579" y="2218" width="290" height="436" frameX="-1" frameY="-11" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0039" x="869" y="2218" width="290" height="436" frameX="-1" frameY="-11" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0040" x="1159" y="2218" width="290" height="436" frameX="-1" frameY="-11" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose idle0041" x="0" y="0" width="290" height="436" frameX="-1" frameY="-11" frameWidth="292" frameHeight="447"/>
+	<SubTexture name="matt lose prev0000" x="1449" y="2218" width="311" height="425" frameX="0" frameY="-10" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0001" x="1449" y="2218" width="311" height="425" frameX="0" frameY="-10" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0002" x="1760" y="2218" width="282" height="433" frameX="-43" frameY="-3" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0003" x="1760" y="2218" width="282" height="433" frameX="-43" frameY="-3" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0004" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0005" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0006" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0007" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0008" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0009" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0010" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0011" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0012" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0013" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0014" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0015" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0016" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0017" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0018" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0019" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0020" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0021" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0022" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0023" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0024" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0025" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0026" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0027" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0028" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0029" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0030" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0031" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0032" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0033" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0034" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0035" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0036" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0037" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0038" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose prev0039" x="0" y="2654" width="290" height="436" frameX="-39" frameY="0" frameWidth="329" frameHeight="436"/>
+	<SubTexture name="matt lose retry0000" x="290" y="2654" width="306" height="458" frameX="-2" frameY="0" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0001" x="596" y="2654" width="311" height="451" frameX="0" frameY="-7" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0002" x="907" y="2654" width="305" height="441" frameX="-2" frameY="-17" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0003" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0004" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0005" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0006" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0007" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0008" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0009" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0010" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0011" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0012" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0013" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0014" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0015" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0016" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0017" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0018" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0019" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0020" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0021" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0022" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+	<SubTexture name="matt lose retry0023" x="1212" y="2654" width="303" height="439" frameX="-3" frameY="-19" frameWidth="311" frameHeight="458"/>
+</TextureAtlas>
